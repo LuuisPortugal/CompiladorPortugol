@@ -1,0 +1,11 @@
+.cm-s-portugol span.cm-meta { color: gray; }
+.cm-s-portugol span.cm-keyword { line-height: 1em; font-weight: bold; color: blue; }
+.cm-s-portugol span.cm-atom { color: black; }
+.cm-s-portugol span.cm-number { color: red; }
+.cm-s-portugol span.cm-string { color: red; }
+.cm-s-portugol span.cm-variable { color: black; }
+.cm-s-portugol span.cm-operator { color: black; }
+.cm-s-portugol span.cm-comment { color: green; }
+
+.cm-s-portugol .CodeMirror-activeline-background { background: #e8f2ff; }
+.cm-s-portugol .CodeMirror-matchingbracket { outline:1px solid grey; color:black !important; }
